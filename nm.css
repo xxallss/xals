@@ -1,0 +1,19 @@
+
+body {
+    background-color: black; /* Цвет фона */
+}
+
+p {
+    color: navy; /* Цвет текста */
+    background-color: black; /* Фон для элемента */
+}
+p {
+    font-size: 30px; /* Размер шрифта */
+    font-family: Arial, sans-serif; /* Шрифт */
+    font-weight: bolder; /* Толщина шрифта */
+    text-align: center; /* Выравнивание */
+}
+
+button {
+    
+}
